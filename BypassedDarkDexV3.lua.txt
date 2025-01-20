@@ -1,5 +1,5 @@
 -- Cloneref support (adds support for JJsploit/Temple/Electron and other sploits that don't have cloneref or really shit versions of it.)
-loadstring(game:HttpGet("hhttps://raw.githubusercontent.com/JollyHub-ez/JollyHubDev2/main/CloneRef.lua.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JollyHub-ez/JollyHubDev2/main/CloneRef.lua.txt", true))()
 
 -- Dex Bypasses
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JollyHub-ez/Dev3/main/Bypasses.lua.txt", true))()
